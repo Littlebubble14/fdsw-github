@@ -7,6 +7,23 @@ strong{
   color: #ffffff; /* Optional: Set the color of the text */
 }
 
+/* Mis cambios */
+#logo{
+  width: 200px;
+}
+
+#buttongit{
+  text-decoration: none;
+  color: white;
+}
+
+#buttonportafolio{
+  text-decoration: none;
+  color: white;
+}
+
+/* Fin de mis cambios */
+
 /* Hero Section */
 
 #Hero-Section {
